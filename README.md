@@ -1,4 +1,4 @@
-# Metropark_01
+# Metropark_02
 
 This is Metropark system.
 
@@ -10,9 +10,11 @@ In order to run the project locally, the developer should add the following dire
 
 .envs
 ├── .local
-│   ├── .django
-│   └── .postgres
+│ ├── .django
+│ └── .postgres
 .env
+
+
 
 Without these two files, Docker will not have access to the keys, and without them, it will not be possible to access the database. Please request those files from the project manager (tzurjob09@gmail.com).
 
